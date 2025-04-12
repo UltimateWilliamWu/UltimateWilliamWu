@@ -1,3 +1,9 @@
+<h3 align="center">🌍 Language / 语言</h3>
+<p align="center">
+  <a href="./README.md"><b>English</b></a> | 
+  <a href="./README.zh-CN.md"><b>中文</b></a>
+</p>
+
 # 👋 你好，欢迎来到我的主页，我是 William Wu（吴天雄）
 
 📖 本页面也提供英文版：  
