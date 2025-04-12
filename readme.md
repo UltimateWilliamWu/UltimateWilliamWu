@@ -1,7 +1,10 @@
 # 👋 Hi there, I'm William Wu
 
-📖 This README is also available in:  
-🌏 [中文版本（Chinese Version）](./README.zh-CN.md)
+<h3 align="center">🌍 Language / 语言</h3>
+<p align="center">
+  <a href="./README.md"><b>English</b></a> | 
+  <a href="./README.zh-CN.md"><b>中文</b></a>
+</p>
 
 🎓 I'm currently a Master's student in **Artificial Intelligence** at **UNSW (University of New South Wales)**.  
 💻 I hold a Bachelor's degree in **Software Engineering** and have a strong foundation in programming and system design.
