@@ -37,7 +37,7 @@
 
 ## 📈 GitHub 数据统计
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=**your-github-username**&show_icons=true&theme=radical)
+![Tianxiong's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
 
