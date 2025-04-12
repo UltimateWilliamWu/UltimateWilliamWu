@@ -1,4 +1,4 @@
-# 👋 你好，欢迎来到我的主页，我是 William Wu（吴天雄）
+# 👋 你好，欢迎来到我的主页，我是 William Wu
 
 <h3 align="center">🌍 Language / 语言</h3>
 <p align="center">
