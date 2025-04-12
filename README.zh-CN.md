@@ -1,13 +1,10 @@
+# 👋 你好，欢迎来到我的主页，我是 William Wu（吴天雄）
+
 <h3 align="center">🌍 Language / 语言</h3>
 <p align="center">
   <a href="./README.md"><b>English</b></a> | 
   <a href="./README.zh-CN.md"><b>中文</b></a>
 </p>
-
-# 👋 你好，欢迎来到我的主页，我是 William Wu（吴天雄）
-
-📖 本页面也提供英文版：  
-🌎 [English Version](./README.md)
 
 🎓 我目前就读于**新南威尔士大学（UNSW）**人工智能硕士专业  
 💻 本科毕业于**软件工程**专业，拥有扎实的编程基础与系统设计能力
