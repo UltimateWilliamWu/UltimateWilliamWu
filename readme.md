@@ -10,19 +10,25 @@
 - 🔍 Passionate about **AI, Machine Learning**, and **Quantitative Trading**
 - 💹 Interested in applying ML models to financial markets and building automated trading strategies
 - 🧠 Constantly exploring technologies like **PyTorch**, **LightGBM**, **XGBoost**, and **Qlib**
-- 🛠️ Enjoy working on both backend systems and algorithm optimization in Python / C / C++
+- 🛠️ Enjoy working on both backend systems and algorithm optimization in Python / C / Java
 
 ---
 
 ## 🧰 Tech Stack
 
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-%23FFB300?style=for-the-badge)
 ![Qlib](https://img.shields.io/badge/Qlib-%23009688?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
