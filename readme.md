@@ -36,5 +36,5 @@
 
 Feel free to reach out or check out my projects!
 
-- 🌐 [LinkedIn](www.linkedin.com/in/tianxiong-wu-277954301)
+- 🌐 [LinkedIn]([www.linkedin.com/in/tianxiong-wu-277954301](https://www.linkedin.com/in/tianxiong-wu-277954301/))
 - 📧 Email: william-wu2001@outlook.com
